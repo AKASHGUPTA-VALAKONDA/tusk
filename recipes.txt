@@ -2,3 +2,6 @@ akash kitchen
 
 maggie
 pasta
+
+
+egg fry
